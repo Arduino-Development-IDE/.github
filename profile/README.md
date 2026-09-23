@@ -10,7 +10,7 @@
 - Reopen the same sketch the next sitting via **Arduino Software**
 - Save before you unplug the board in **Arduino Development IDE**
 
-![Arduino Development IDE](https://www.researchgate.net/profile/Anand-Nayyar/publication/305698918/figure/fig16/AS:436306229633033@1481034919522/Arduino-IDE-Interface.png)
+![Arduino Development IDE](https://microcontrollerslab.com/wp-content/uploads/2018/10/Arduino-IDE.jpg)
 
 ---
 
